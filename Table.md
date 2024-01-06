@@ -228,3 +228,6 @@ Row 2, Cell 1 Row 2, Cell 2
   </table>
 </body>
 
+## Important Table Attributes
+[Cell Spacing](/attributes/Cell_Spacing.md) </br>
+[Cell Padding](attributes/Cell_Padding.md)

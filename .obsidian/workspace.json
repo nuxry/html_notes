@@ -4,29 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3248268598dec816",
+        "id": "505dd5b76d9370f3",
         "type": "tabs",
         "children": [
           {
-            "id": "77f3d86c6117acb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Table.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "899d9efb988fbdf5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "593cfe58c456ceae",
+            "id": "0d3f4b71894acaa1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Cellspacing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "66015181c16bef30",
@@ -165,10 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77f3d86c6117acb4",
+  "active": "0d3f4b71894acaa1",
   "lastOpenFiles": [
+    "attributes/span/Rowspan.md",
+    "attributes/span/Colspan.md",
+    "attributes/Cell_Spacing.md",
+    "attributes/Cellpadding.md",
+    "attributes/Cell_Padding.md",
+    "images/zero_cell_padding.jpg",
+    "images/cell_padding.jpg",
+    "Table.md",
+    "images/zero_cell_spacing.jpg",
+    "images/cell_spacing.JPG",
+    "cell_spacing.JPG",
+    "images",
+    "New folder",
+    "test.md",
+    "attributes/Cell Spacing.md",
+    "attributes/span",
+    "Untitled.md",
+    "attributes",
+    "cellspacing",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Table.md"
+    "Untitled.canvas"
   ]
 }
