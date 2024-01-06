@@ -199,3 +199,32 @@ Output:
         </tr>
     </table>
 </body>
+
+## Table Border
+HTML  এর টেবিল ``boder`` সহ এবং ``border`` ছাড়া ও বানানো যায়।
+তবে ``border`` সহ টেবিল বানানো শ্রেয়। নিচে ``border`` সহ এবং ``border`` ছাড়া টেবিল এর উদাহরণ দেওয়া হলো। 
+
+
+Border ছাড়া টেবিল 
+ <b>Header 1</b>  <b>Header 2</b>
+Row 1, Cell 1 Row 1, Cell 2
+Row 2, Cell 1 Row 2, Cell 2
+
+<body>
+  <table border="1px">
+    <caption>Border সহ টেবিল</caption>
+    <tr>
+      <th>Header 1</th>
+      <th>Header 2</th>
+    </tr>
+    <tr>
+      <td>Row 1, Cell 1</td>
+      <td>Row 1, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 2, Cell 1</td>
+      <td>Row 2, Cell 2</td>
+    </tr>
+  </table>
+</body>
+
